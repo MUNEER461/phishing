@@ -2,7 +2,7 @@ open terminal in linux
 
       follow commands
 
-      git clone https://github.com/MUNEER461/phishinng
+      git clone https://github.com/MUNEER461/phishing
  
       cd phishinng 
 
