@@ -2,9 +2,9 @@ open terminal in linux
 
 follow commands
 
-    git clone https://github.com/MUNEER461/phishinng
+   git clone https://github.com/MUNEER461/phishinng
  
-    cd phishinng 
+   cd phishinng 
     bash zphisher.sh
     wait for 1 min packages fill download
     select the page  example facebook
