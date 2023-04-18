@@ -19,7 +19,9 @@ follow commands
    http://127.0.0.1:8080  copy this and enter in browser 
      
    fill the details and enter
-   terminal show the password you entered
+   
+   
+  open  terminal show the password you entered
 
 
    
