@@ -4,7 +4,7 @@ open terminal in linux
 
       git clone https://github.com/MUNEER461/phishing
  
-      cd phishinng 
+      cd phishing 
 
       bash zphisher.sh
 
